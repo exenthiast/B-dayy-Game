@@ -322,15 +322,15 @@ function startPhotoShow() {
     // Foto lokal dari folder images
     const photos = [
         {
-            text: 'Our First Date 💕',
+            text: 'I Love You Sayang 💕',
             image: './images/photo1.jpg'
         },
         {
-            text: 'Birthday Moment 🎂',
+            text: 'Happyy Birthday 🎂',
             image: './images/photo2.jpg'
         },
         {
-            text: 'Adventure Time 🌟',
+            text: 'Semoga Cita Citamu Tercapai 🌟',
             image: './images/photo3.jpg'
         },
         {
@@ -1190,4 +1190,5 @@ function handleContinueNavigation() {
         default:
             showScreen('main');
     }
+
 }
